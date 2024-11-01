@@ -1,0 +1,5 @@
+0 6 ff
+1 sonipat delhi
+3 delhi panipat
+6 jansi jk
+12 kanpur lucknow
